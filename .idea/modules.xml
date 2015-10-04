@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZTO1.iml" filepath="$PROJECT_DIR$/ZTO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessmodule/businessmodule.iml" filepath="$PROJECT_DIR$/businessmodule/businessmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dostepdodanych/dostepdodanych.iml" filepath="$PROJECT_DIR$/dostepdodanych/dostepdodanych.iml" />
+    </modules>
+  </component>
+</project>
